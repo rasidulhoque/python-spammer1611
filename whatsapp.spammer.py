@@ -1,4 +1,5 @@
 #pip install pyautogui
+#this package need to be installed
 
 import pyautogui
 import webbrowser as w
